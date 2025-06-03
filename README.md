@@ -74,26 +74,13 @@ The following PNGs were created using ArcGIS and QGIS to visualize changes over 
 
 ---
 
-## Interactive StoryMap
-
-🎥 **Explore the full interactive presentation** here:  
-👉 [How Did Obamacare Change Health Access in Ohio – ArcGIS StoryMap](https://storymaps.arcgis.com/stories/c0e69a9621f7417da91e09d18f6a5308)
-
-<p align="center">
-  <a href="https://storymaps.arcgis.com/stories/c0e69a9621f7417da91e09d18f6a5308" target="_blank">
-    <img src="images/storymap_preview.png" alt="StoryMap Preview" width="700"/>
-  </a>
-</p>
-
----
-
 ## Map Visualizations
 
 ### Ohio in 2012
-![Ohio 2012 Map](Map2012.png)
+![Ohio 2012 Map](Layout2012.png)
 
 ### Ohio in 2022
-![Ohio 2022 Map](Map2022.png)
+![Ohio 2022 Map](Layout2022.png)
 
 ---
 
