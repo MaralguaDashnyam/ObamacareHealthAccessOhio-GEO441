@@ -27,7 +27,7 @@ All data was collected from the **U.S. Census Bureau**:
 - **Insurance Data**: [ACS Table S2701 – 5-Year Estimates]  
 - **Education Data**: [ACS Table B15003 – 5-Year Estimates]  
 
-### 📂 Dataset Files (in `Data Pool/`)
+### Dataset Files (in `Data Pool/`)
 
 | Filename       | Description                         |
 |----------------|-------------------------------------|
@@ -36,14 +36,14 @@ All data was collected from the **U.S. Census Bureau**:
 | `edu2012.csv`  | Educational attainment, Ohio, 2012  |
 | `edu2022.csv`  | Educational attainment, Ohio, 2022  |
 
-### 🧾 Metadata Dictionary
+### Metadata Dictionary
 
 We’ve documented every variable here:  
 📄 [`Meta Data Dictionary`](./Meta%20Data%20Dictionary.docx)
 
 ---
 
-## 🗺️ Maps & Layouts
+## Maps & Layouts
 
 The following PNGs were created using ArcGIS and QGIS to visualize changes over time:
 
@@ -56,7 +56,7 @@ The following PNGs were created using ArcGIS and QGIS to visualize changes over 
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 ✔️ Insurance coverage improved statewide after ACA implementation  
 ✔️ Gaps between high- and low-education areas narrowed  
@@ -65,7 +65,7 @@ The following PNGs were created using ArcGIS and QGIS to visualize changes over 
 
 ---
 
-## 📚 What We Learned
+## What We Learned
 
 - How to clean and join large-scale ACS datasets using `Geo_ID`
 - How to design meaningful map symbology to highlight spatial disparities
